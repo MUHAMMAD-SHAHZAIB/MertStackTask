@@ -1,0 +1,6 @@
+.form-wrapper {
+  max-width: 400px; /* Adjust as needed */
+  margin: 0 auto; /* Center the form horizontally */
+  border: 1px solid #ced4da; /* Add outer border */
+  padding: 20px; /* Add padding for spacing */
+}
